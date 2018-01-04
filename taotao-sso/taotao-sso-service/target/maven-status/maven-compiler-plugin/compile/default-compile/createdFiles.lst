@@ -1,0 +1,4 @@
+taotao\com\jedis\JedisClientPool.class
+taotao\com\jedis\JedisClientCluster.class
+taotao\com\jedis\JedisClient.class
+taotao\com\sso\service\impl\UserServiceImpl.class
